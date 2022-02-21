@@ -1,0 +1,43 @@
+@import url("https://fonts.cdnfonts.com/css/beautiful-people-personal-use");
+@import url("https://fonts.cdnfonts.com/css/tj-lordo-one");
+
+*{
+    margin: 0;
+    color: black;
+}
+
+body{
+    background-color: lightgray;
+}
+main{
+    margin-top: 0;
+    margin: 0 auto;
+    background-color: dimgrey;
+    padding: 3em;
+    padding-top: 1em;
+    width: 60%;
+}
+
+header h1{
+    text-align: center;
+    color:lightyellow;
+
+}
+
+fieldset{
+    margin: 1em 0 0 0;
+    min-height: 18vh;
+    border: 2px solid white;
+    background-color:darkcyan;
+}
+
+legend{
+    padding: 5px;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius:2px;
+    background-color: rgb(172, 172, 172);
+    color: black;
+
+}
+
